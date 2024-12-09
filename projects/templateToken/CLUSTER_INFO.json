@@ -1,0 +1,23 @@
+{
+    "General information":{
+        "TokenName":"Mytoken",
+        "TokenSymbol":"MTK",
+        "DeployedViaFactory": "false",
+        "ChainIDs":[1, 42161]
+    },
+    "Deployments": [
+        {
+        "ChainId": 1,
+        "Address": "0x",
+        "Type": "Token",
+        "Decimals": 18
+    },
+    {
+        "ChainId": 42161,
+        "Address": "0x",
+        "Type": "Connector",
+        "Decimals": 6  
+    }
+    ]
+    
+}
