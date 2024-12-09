@@ -1,6 +1,6 @@
 # UTS Verified Token List
 
-Follow (this guide)[] to propose your token and submit a PR with it.
+Follow [this guide]() to propose your token and submit a PR with it.
 
 1. PLEASE **enable "Allow edits by maintainers" while putting up the PR.**
 2. Once your pr has been merged, it takes time to show on the UI.
