@@ -11,6 +11,6 @@ You can start using the [bridge](https://uts.entangle.fi/) once you created clus
 
 1. Fork our repo using fork button (right upper corner)
 2. Create folder with the name of your token in the ***/projects*** folder
-3. Create ***clusterInfo.json*** using [this](CLUSTER_INFO_TEMPLATE.json) template
+3. Create ***clusterInfo_YourProjectShortName.json*** using [this](CLUSTER_INFO_TEMPLATE.json) template
 4. Fulfill [google form](https://forms.gle/1tVgd3HgmHBRJ4kT9)
 4. Do a PR and provide information in the description using [this](PULL_REQUEST_TEMPLATE.md) template
